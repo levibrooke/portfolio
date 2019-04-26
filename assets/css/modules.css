@@ -35,7 +35,7 @@ section, article {
   .image.avatar48 {
     width: 48px;
     height: 48px;
-    background: #f00;
+    /* background: #f00; */
   }
 
     .image.avatar48 img {
@@ -226,7 +226,8 @@ button,
   color: #fff !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
-  background-color: #8ebebc;
+  /* background-color: #8ebebc; */
+  background-color: #76A1C4;
   border: 0;
   cursor: pointer;
   background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -244,7 +245,8 @@ button,
   input[type="reset"]:hover,
   button:hover,
   .button:hover {
-    background-color: #9ececc;
+    /* background-color: #9ececc; */
+    background-color: #76A1C4;
   }
 
   input[type="button"]:active,
@@ -252,7 +254,8 @@ button,
   input[type="reset"]:active,
   button:active,
   .button:active {
-    background-color: #7eaeac;
+    /* background-color: #7eaeac; */
+    background-color: #76A1C4;
   }
 
 /* Item */
@@ -433,7 +436,8 @@ button,
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          /* color: #e27689; */
+          color: #76A1C4;
         }
 
 /* Footer */
@@ -512,7 +516,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/background.jpg");
     }
 
     #main > section.two {
