@@ -17,13 +17,13 @@ Actual time needed to complete: 20 min
 ```
 Number and name of feature: Feature 2 - Modify the contents
 
-Estimate of time needed to complete: 30 min
+Estimate of time needed to complete: 45 min
 
 Start time: 11:20 am
 
-Finish time: 
+Finish time: 12:20 pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 60 min
 ```
 
 ## Acknowledgements
