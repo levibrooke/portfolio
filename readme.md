@@ -14,6 +14,18 @@ Finish time: 11:20am
 Actual time needed to complete: 20 min
 ```
 
+```
+Number and name of feature: Feature 2 - Modify the contents
+
+Estimate of time needed to complete: 30 min
+
+Start time: 11:20 am
+
+Finish time: 
+
+Actual time needed to complete: 
+```
+
 ## Acknowledgements
 - Prologue by [HTML5 UP](README.txt)
 
