@@ -26,6 +26,19 @@ Finish time: 12:20 pm
 Actual time needed to complete: 60 min
 ```
 
+### Lab 05a
+```
+Number and name of feature: Feature #1: Add functionality
+
+Estimate of time needed to complete: 45 min
+
+Start time: 11:30 am
+
+Finish time: 
+
+Actual time needed to complete: 
+```
+
 ## Acknowledgements
 - Prologue by [HTML5 UP](README.txt)
 
